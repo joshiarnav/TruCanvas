@@ -2,11 +2,19 @@
 
 # TruCanvas
 
-### Demonstration:
+## Description:
+
+TruCanvas is a live networked paint application that allows you to paint with your friends on the same network! TruCanvas is written in Dlang and run using the DUB package manager.
+
+## Demonstration:
 
 [![TruCanvas Demonstration](http://img.youtube.com/vi/98XU5H2mWpQ/0.jpg)](http://www.youtube.com/watch?v=98XU5H2mWpQ)
 
-## The Final Project Repository!
+## Final Project Description
+
+The remainder of the readme contains information about the project assignment for TruCanvas.
+
+### The Final Project Repository!
 
 Welcome to the final project repository!
 
@@ -18,12 +26,12 @@ Here is a welcome video showing the repository organization--be sure to read car
 
 https://youtu.be/F0XVOL1zQHM
 
-## Repository Organization
+### Repository Organization
 
 1. There are no more individual assignments.
 2. You will complete your final project in the [final project directory](./FinalProject). The organization is partially up to you on the file structure and organization, just make sure you organize it logically and against any requirements.
 
-## Team
+### Team
 
 **Team Name**: Arnav
 
@@ -32,14 +40,14 @@ Team member Names:
 1. Arnav Joshi
 2. _Member names redacted for privacy_
 
-## Team Logistics
+### Team Logistics
 
 - Work with your team to ensure everyone has a way to work on this codebase with a common set of tools.
 - Everyone should make code contributions to the repository (i.e. everyone should have some commits in the commit history -- even if you pair program, that means you need to switch who is in control!)
 - See the project timeline
 - Note: In semesters where I have a 'token system' for late days, **you cannot use any tokens** for the final project.
 
-## Notes on working in teams
+### Notes on working in teams
 
 - [Four Ways to Lead Your Software Team to Success](https://hackernoon.com/four-ways-to-lead-software-team-to-success-43fa156719b4)
 - [The 3 C's of being a captain](https://appliedsportpsych.org/resources/resources-for-athletes/the-3-c-s-of-being-a-captain/)
