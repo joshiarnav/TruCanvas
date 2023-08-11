@@ -1,6 +1,10 @@
 <img src="./media/banner.png" alt="banner" />
 
-# Final Project!
+# TruCanvas
+
+### Demonstration:
+
+[![TruCanvas Demonstration](http://img.youtube.com/vi/98XU5H2mWpQ/0.jpg)](http://www.youtube.com/watch?v=98XU5H2mWpQ)
 
 ## The Final Project Repository!
 
