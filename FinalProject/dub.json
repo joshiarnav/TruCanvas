@@ -8,10 +8,5 @@
   },
   "description": "live paint app",
   "license": "proprietary",
-  "name": "finalproject",
-  "configurations": [
-    {
-      "name": "docs"
-    }
-  ]
+  "name": "finalproject"
 }
